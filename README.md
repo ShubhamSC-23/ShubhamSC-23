@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Chavan</h1>
 <h3 align="center">A passionate developer from India.</h3>
-
-
-
-- 🌱 I’m currently learning **JAVA, Full-Stack Web-Development, Android.**
+<h4>
+- 🌱 I’m currently learning JAVA, Full-Stack Web-Development, Android.
 
 - 🤝 I’m looking for help with **Android Development**
 
@@ -12,7 +10,7 @@
 - 📫 How to reach me **shubhamchavan2309@gmail.com**
 
 - ⚡ Fun fact **"Happiness is: When your code runs without errors".**
-
+</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-chavan-1b21b721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-chavan-1b21b721a/" height="30" width="40" /></a>
@@ -25,6 +23,6 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsc-23&show_icons=true&locale=en" alt="shubhamsc-23" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsc-23&" alt="shubhamsc-23" /></p>
