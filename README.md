@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsc-23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsc-23" /> </p>
 
-- 🌱 I’m ** Full-Stack Web-Development.**
+- 🌱 I’m **Full-Stack Web-Development.**
 
 - 🤝 I've a very good knowledge of **AWS**
 
