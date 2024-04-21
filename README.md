@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsc-23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsc-23" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Full-Stack Web-Development, Android.**
+- 🌱 I’m ** Full-Stack Web-Development.**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I've a very good knowledge of **AWS**
 
-- 💬 Ask me about **PHP , Python , My-SQL.**
+- 💬 Ask me about **Web-technologies , Python and Database.**
 
 - 📫 How to reach me **shubhamchavan2309@gmail.com**
 
