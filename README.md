@@ -1,5 +1,5 @@
-<h1 align="center">Namaste 👋, I'm Shubham Chavan</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center">Namaste 🙏, I'm Shubham Chavan</h1>
+<h3 align="center">A passionate frontend developer from India .</h3>
 
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
