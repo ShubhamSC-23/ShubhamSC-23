@@ -7,7 +7,7 @@
 
 - 🔭 I’m a **Full-Stack Web-Developer.**
 
-- 🌱 I’m currently learning **Android.**
+- 🌱 I’m currently learning **Android (Flutter and Dart).**
 
 - 👯 I’m looking to collaborate on **Web Technologies.**
 
