@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhamchavan2309@gmail.com**
 
-- ⚡ Fun fact **"You can Learn it All Within a Month."**
+- ⚡ Fun fact **Out with the Old, In with the New."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
