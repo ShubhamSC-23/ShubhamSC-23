@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhamchavan2309@gmail.com** <br> Also, please visit - https://shubhamsc-23.github.io/portfolio/
 
-- ⚡ Fun fact **"Out with the Old, In with the New."**
+- ⚡ Developer's Tip - **"Out with the Old, In with the New."**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
